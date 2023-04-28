@@ -1,0 +1,13 @@
+@media (min-width: 32.5em) {
+    header img {
+        float: right;
+        width: 200px;
+    }
+
+    body {
+        max-width: 960px;
+        margin: 0 auto;
+        margin-left: 50px;
+      }
+      
+}
